@@ -1,0 +1,1 @@
+This is a basic recipes website to showcase the ability to setup the structure and linnk websites
